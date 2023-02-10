@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Anton\\.nuget\\packages\\": {}
+    "C:\\Users\\anton\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "B:\\Projects\\LeetCode\\LeetCode.csproj",
+      "projectUniqueName": "D:\\Projects\\Leet\\LeetCodeExercises\\LeetCode.csproj",
       "projectName": "LeetCode",
-      "projectPath": "B:\\Projects\\LeetCode\\LeetCode.csproj",
-      "packagesPath": "C:\\Users\\Anton\\.nuget\\packages\\",
-      "outputPath": "B:\\Projects\\LeetCode\\obj\\",
+      "projectPath": "D:\\Projects\\Leet\\LeetCodeExercises\\LeetCode.csproj",
+      "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\Leet\\LeetCodeExercises\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Anton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\anton\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200-preview.22628.1\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
